@@ -1,4 +1,14 @@
-### Hi there 👋
+# 你好
+
+這裡是瑞利，來自台灣高雄，
+在 GitHub 上主要是找點翻譯的事情做，編程式碼什麽的還是算了(怕被創死)
+
+[Twitter(X)](https://twitter.com/railyyyyy_) / [Discord Server](https://discord.com/invite/DngdEaPxvZ) / [Mail](mailto://railyinu@gmail.com)
+
+# 貢獻
+
+暫時沒有。
+想找事情做呃呃呃呃
 
 <!--
 **railyyyyy/railyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
